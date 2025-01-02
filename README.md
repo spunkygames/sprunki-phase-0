@@ -21,7 +21,7 @@ Sprunki Phase 0 is a music-based game where you create and mix beats featuring t
 
 ## How to Play <a name="how-to-play"></a>
 
-1. **Access the Game:** Visit https://spunky.games/sprunki-phase-0 to start playing.
+1. **Access the Game:** Visit sprunki phase 0 to start playing.
 2. **Explore the Interface:** Familiarize yourself with the game's controls and the available sound options.
 3. **Select Your Sounds:** Choose from a variety of beats, melodies, and effects to add to your mix.
 4. **Create Your Rhythm:** Combine different sounds and experiment with timing to create your own unique rhythms.
@@ -63,4 +63,4 @@ Ready to start your rhythmic adventure? Play Sprunki Phase 0 Now.
 
 [Dinosaur Game](https://dinosaur-game.cc/)
 [Sprunki OC](https://sprunkioc.net/)
-[Spunky Game bookmarkslist](https://www.expertbookmarking.com/story/incredibox-sprunki)
+[Spunky Game bookmarkslist](https://www.bookmarkslist.com/story/spunky-game)
